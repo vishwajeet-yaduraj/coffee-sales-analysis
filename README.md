@@ -1,7 +1,7 @@
 # coffee-sales-analysis
 
 - Welcome to the Coffee Sales Data Analysis repository! This project contains SQL queries that analyze various aspects of coffee sales data, providing valuable business insights into consumer behavior, market trends, sales performance, and potential growth opportunities.
-- 
+
 # Strategic Recommendations
 1. High-Potential Markets: Pune and Chennai show high sales and manageable rent costs, making them ideal for new investments and expansion.
 2. Targeted Marketing: **Bangalore, Delhi, and Mumbai** have large coffee-consuming populations, indicating strong potential for coffee-centric product promotions.
